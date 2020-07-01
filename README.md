@@ -11,4 +11,4 @@ This project is for educational porpuses only.
 Site published at https://baroniunas91.github.io/17-grupe-sign-up-master/index.html
 
 ### Authors
-[Rimantas](https://github.com/baroniunas91)
+[Edgaras](https://github.com/baroniunas91)
