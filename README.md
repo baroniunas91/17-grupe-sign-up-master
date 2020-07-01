@@ -6,7 +6,7 @@
 # Sign up
 ### 17 group - sign up
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 Site published at https://baroniunas91.github.io/17-grupe-sign-up-master/index.html
 
