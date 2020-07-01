@@ -6,9 +6,9 @@
 # Sign up
 ### 17 group - sign up
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only.
 
-Site published at https://front-end-by-rimantas.github.io/17-grupe-sign-up/
+Site published at https://baroniunas91.github.io/17-grupe-sign-up-master/index.html
 
 ### Authors
-[Rimantas](https://github.com/belauzas)
+[Edgaras](https://github.com/baroniunas91)
