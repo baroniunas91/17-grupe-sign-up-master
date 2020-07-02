@@ -1,0 +1,44 @@
+@media (max-width: 900px) {
+    .container {
+        width: 650px;
+    }
+        .container > .right {
+            padding: 50px;
+        }
+}
+@media (max-width: 700px) {
+    .container {
+        width: 450px;
+    }
+        .container > .right {
+            padding: 20px;
+        }
+        .container > .right > .close {
+            width: 50px;
+            height: 50px;
+        }
+            .close > .line {
+                width: 20px;
+            }
+            .close > .line:first-of-type {
+                top: 12px;
+                left: 24px;
+            }
+            .close > .line:last-of-type {
+                top: 26px;
+                left: 24px;
+            }
+        .form > .form-row:last-of-type {
+            text-align: center;
+        }
+            .form > .form-row:last-of-type > .btn {
+                width: 100%;
+                float: none;
+            }
+            .form > .form-row:last-of-type > span {
+                float: none;
+            }
+            .form > .form-row:last-of-type > a {
+                float: none;
+            }
+}
