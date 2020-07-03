@@ -11,7 +11,7 @@
         width: 450px;
     }
         .container > .right {
-            padding: 20px;
+            padding: 30px;
         }
         .container > .right > .close {
             width: 50px;
@@ -41,4 +41,24 @@
             .form > .form-row:last-of-type > a {
                 float: none;
             }
+}
+
+@media (max-width: 500px) {
+    .container {
+        width: 300px;
+    }
+        .container > .left {
+            display: none;
+        }
+        .container > .main-title {
+            display: inline-block;
+            width: 100%;
+            text-align: center;
+            padding-bottom: 10px;
+            color: #fff;
+            font-weight: normal;
+        }
+        .container > .right {
+            width: 100%;
+        }
 }

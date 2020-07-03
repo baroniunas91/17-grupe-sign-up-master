@@ -18,6 +18,9 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+    .container > .main-title {
+        display: none;
+    }
     .container > .left {
         display: inline-block;
         width: 40%;
@@ -31,7 +34,7 @@ body {
         left: 0px;
         bottom: 20px;
     }
-        .main-title {
+        .container > .left > .main-title {
             color: #fff;
             font-weight: normal;
             padding: 20px;
