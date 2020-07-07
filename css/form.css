@@ -28,7 +28,6 @@
         }
             .form > .form-row > input:focus {
                 outline: none;
-                background-color: yellow;
             }
         .form > .form-row:last-of-type {
             margin-bottom: 0;
